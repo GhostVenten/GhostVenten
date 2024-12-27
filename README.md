@@ -3,6 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostventen&label=Profile%20views&color=0e75b6&style=flat" alt="ghostventen" /> </p>
 <img align="right" alt="Hacking" width="400" src="https://i.pinimg.com/originals/3b/d3/6f/3bd36fe648f68a8c8741cb7275ddf26a.gif">
 
+- 🔭 I’m currently working on **csharp projects**
+
+- 🌱 I’m currently learning **kali linux**
+
+- 💬 Ask me about **Csharp , Python , Node**
+
+- 📫 How to reach me **http://ghostdev.rf.gd/**
+
+- ⚡ Fun fact **I think I'm funny, but my code doesn’t always agree!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sharim_.ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharim_.ali" height="30" width="40" /></a>
