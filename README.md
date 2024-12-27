@@ -1,4 +1,3 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/701/872/935/mr-robot-tv-series-hello-friend-elliot-mr-robot-hd-wallpaper-preview.jpg)](https://ghostdev.rf.gd)
 <h1 align="center">Hi 👋, I'm known as Ghost</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ghostventen&label=Profile%20views&color=0e75b6&style=flat" alt="ghostventen" /> </p>
 
