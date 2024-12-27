@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/736x/1e/94/9c/1e949cb46f2f5c9041886bb2f2817f89.jpg)](http://ghostdev.rf.gd/)
 <h1 align="center">Hi 👋, I'm known as Ghost</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ghostventen&label=Profile%20views&color=0e75b6&style=flat" alt="ghostventen" /> </p>
 <img align="right" alt="Hacking" width="400" src="https://i.pinimg.com/originals/3b/d3/6f/3bd36fe648f68a8c8741cb7275ddf26a.gif">
